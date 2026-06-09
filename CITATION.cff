@@ -1,9 +1,15 @@
-# CITATION.cff
 cff-version: 1.2.0
 message: "If you use this software, please cite the following work."
+title: "Lexical Multidimensional Analysis Tool"
+authors:
+  - family-names: Yamada
+    given-names: R.
+  - family-names: Berber Sardinha
+    given-names: T.
+
 preferred-citation:
   type: book
-  title: "Lexical Multi-Dimensional Analysis: Identifying Discourses and Ideologies"
+  title: "Lexical Multidimensional Analysis: Identifying Discourses and Ideologies"
   authors:
     - family-names: Berber Sardinha
       given-names: T.
@@ -12,4 +18,4 @@ preferred-citation:
   year: 2025
   publisher:
     name: Cambridge University Press
-  url: https://www.cambridge.org/core/elements/lexical-multidimensional-analysis/B2321B62435360F4F7C4AF3F1CCF4E59
+  url: "https://www.cambridge.org/core/elements/lexical-multidimensional-analysis/B2321B62435360F4F7C4AF3F1CCF4E59"
